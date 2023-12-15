@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0f3e3480.css",
+    "main.js": "./static/js/main.807d13de.js",
+    "static/js/787.14f05333.chunk.js": "./static/js/787.14f05333.chunk.js",
+    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/avms-logo.png": "./static/media/avms-logo.45d81708c45e4e81c910.png",
+    "service-worker.js": "./service-worker.js",
+    "index.html": "./index.html",
+    "main.0f3e3480.css.map": "./static/css/main.0f3e3480.css.map",
+    "main.807d13de.js.map": "./static/js/main.807d13de.js.map",
+    "787.14f05333.chunk.js.map": "./static/js/787.14f05333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3e3480.css",
+    "static/js/main.807d13de.js"
+  ]
+}
